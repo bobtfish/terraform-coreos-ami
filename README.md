@@ -1,6 +1,10 @@
 terraform-coreos-ami
 ====================
 
+*THIS MODULE IS DEPRECATED*
+
+Please see: https://github.com/terraform-community-modules/tf_aws_coreos_ami
+
 Terraform module to get the current set of publicly available coreos AMIs.
 
 This module grabs all of the AMIs listed at:
